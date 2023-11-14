@@ -18,8 +18,8 @@ body{
 
 #banner {
     background-color: white;
-    width: 30%;
+    width: 40%;
     display: block;
-    padding: 10%;
-    margin: 10%;
+    padding: 10px;
+    margin: 10px;
 }
