@@ -23,3 +23,9 @@ body{
     padding: 10px;
     margin: 10px;
 }
+
+.titulo {
+    background-image: linear-gradient(#B22222, #8B0000);
+    color: rgb(53, 4, 15)
+
+}
