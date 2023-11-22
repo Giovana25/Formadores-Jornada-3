@@ -26,6 +26,7 @@ body{
 
 .titulo {
     background-image: linear-gradient(#cc8484, #aa2b2b);
-    color: rgb(53, 4, 15)
+    color: rgb(53, 4, 15);
+    text-align: center;
 
 }
