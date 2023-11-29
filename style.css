@@ -36,6 +36,11 @@ header{
     color: rgb(138, 14, 82) 4, 39;
 }
 
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
+}
+
 .cabecalho-titulo{
     font-size: 20px;
     color rgb(138, 14, 82) 4, 39;
