@@ -26,5 +26,12 @@ body{
     background-image: linear-gradient(#cc8484, #aa2b2b);
     color: rgb(53, 4, 15);
     text-align: center;
+}
 
+header{
+    padding: 20px;
+    background-color: rgba(138, 14, 82, 0.5) 4, 39;
+    border-bottom: 2px solid white;
+    font-size: 20px;
+    color: rgb(138, 14, 82) 4, 39;
 }
